@@ -1,4 +1,4 @@
-name: CI
+name: build worflow
 on:
   push:
     branches: [ "main" ]
